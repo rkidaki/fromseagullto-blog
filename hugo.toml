@@ -1,4 +1,4 @@
-baseURL = 'https://example.org'
+baseURL = 'https://rkidaki.github.io/fromseagullto-blog/'
 languageCode = 'zh-cn'
 title = 'From Seagull To'
 theme = 'PaperMod'

@@ -2,24 +2,24 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://example.org/</loc>
+    <loc>https://rkidaki.github.io/fromseagullto-blog/</loc>
     <lastmod>2025-06-14T15:57:00+08:00</lastmod>
   </url><url>
-    <loc>https://example.org/posts/</loc>
+    <loc>https://rkidaki.github.io/fromseagullto-blog/posts/</loc>
     <lastmod>2025-06-14T15:57:00+08:00</lastmod>
   </url><url>
-    <loc>https://example.org/tags/</loc>
+    <loc>https://rkidaki.github.io/fromseagullto-blog/tags/</loc>
     <lastmod>2025-06-14T15:57:00+08:00</lastmod>
   </url><url>
-    <loc>https://example.org/posts/my-first-post/</loc>
+    <loc>https://rkidaki.github.io/fromseagullto-blog/posts/my-first-post/</loc>
     <lastmod>2025-06-14T15:57:00+08:00</lastmod>
   </url><url>
-    <loc>https://example.org/tags/%E6%B5%8B%E8%AF%95/</loc>
+    <loc>https://rkidaki.github.io/fromseagullto-blog/tags/%E6%B5%8B%E8%AF%95/</loc>
     <lastmod>2025-06-14T15:57:00+08:00</lastmod>
   </url><url>
-    <loc>https://example.org/tags/%E7%AC%AC%E4%B8%80%E7%AF%87/</loc>
+    <loc>https://rkidaki.github.io/fromseagullto-blog/tags/%E7%AC%AC%E4%B8%80%E7%AF%87/</loc>
     <lastmod>2025-06-14T15:57:00+08:00</lastmod>
   </url><url>
-    <loc>https://example.org/categories/</loc>
+    <loc>https://rkidaki.github.io/fromseagullto-blog/categories/</loc>
   </url>
 </urlset>
