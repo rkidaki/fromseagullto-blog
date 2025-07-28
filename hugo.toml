@@ -1,25 +1,3 @@
-baseURL = 'https://rkidaki.github.io/fromseagullto-blog/'
-languageCode = 'zh-cn'
-title = 'From Seagull To'
-theme = 'PaperMod'
-
-[params]
-  ShowReadingTime = true
-  ShowShareButtons = true
-  ShowPostNavLinks = true
-  ShowBreadCrumbs = true
-  ShowCodeCopyButtons = true
-  
-[params.homeInfoParams]
-  Title = "欢迎来到海鸥的世界"
-  Content = "这里记录着从海鸥到你的点点滴滴"
-
-[[menu.main]]
-  name = "首页"
-  url = "/"
-  weight = 10
-  
-[[menu.main]]
-  name = "文章"
-  url = "/posts/"
-  weight = 20
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
+title = 'My New Hugo Site'
