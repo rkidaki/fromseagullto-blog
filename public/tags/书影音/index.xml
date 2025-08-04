@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>书影音 on from seagull to...</title>
+    <link>http://localhost:1313/fromseagullto-blog/tags/%E4%B9%A6%E5%BD%B1%E9%9F%B3/</link>
+    <description>Recent content in 书影音 on from seagull to...</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 28 Jul 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/fromseagullto-blog/tags/%E4%B9%A6%E5%BD%B1%E9%9F%B3/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>这次我们真的来了</title>
+      <link>http://localhost:1313/fromseagullto-blog/posts/first-post/</link>
+      <pubDate>Mon, 28 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/fromseagullto-blog/posts/first-post/</guid>
+      <description>&lt;p&gt;这是一篇测试文章。&lt;/p&gt;&#xA;&lt;p&gt;欢迎来到我的新博客！I should write some shit in english too. 日本語も。&lt;/p&gt;&#xA;&lt;h2 id=&#34;也有小标题&#34;&gt;也有小标题&lt;/h2&gt;</description>
+    </item>
+  </channel>
+</rss>

@@ -1,3 +1,25 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://rkidaki.github.io/fromseagullto-blog/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'from seagull to...'
+theme = 'paperesque'
+
+[params]
+display_section = "posts"  
+sidebar = true  
+
+[[params.topmenu]]
+name = "about"
+url = "about/"
+
+[[params.topmenu]]
+name = "life projects"
+url = "life-projects/"
+
+[[params.topmenu]]
+name = "subscribe"
+url = "subscribe/"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true  # 允许HTML
