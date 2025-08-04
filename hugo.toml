@@ -4,7 +4,6 @@ title = 'from seagull to...'
 theme = 'paperesque'
 
 [params]
-display_section = "posts"  
 sidebar = true  
 
 [[params.topmenu]]
