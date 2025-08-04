@@ -3,13 +3,6 @@ languageCode = 'en-us'
 title = 'from seagull to...'
 theme = 'paperesque'
 
-# Hugo版本配置
-[module]
-  [module.hugoVersion]
-    min = "0.110.0"
-    max = ""
-    extended = false
-
 [params]
 display_section = "posts"  
 sidebar = true  
