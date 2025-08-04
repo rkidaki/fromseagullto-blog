@@ -1,4 +1,4 @@
-baseURL = 'https://rkidaki.github.io/fromseagullto-blog/'
+baseURL = '/'
 languageCode = 'en-us'
 title = 'from seagull to...'
 theme = 'paperesque'
