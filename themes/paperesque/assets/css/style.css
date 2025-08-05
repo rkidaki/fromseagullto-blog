@@ -821,10 +821,10 @@ body {
     font-family: "ChocolateClassicalSans", -apple-system, BlinkMacSystemFont, avenir next, avenir, helvetica neue, helvetica, ubuntu, roboto, noto, segoe ui, arial, sans-serif;
 }
 
-/* 排除文章列表的两个类名 */
-ul:not(.list-of-titles):not(.list-unstyled) li {
+/* 排除文章列表的三个类名 */
+ul:not(.list-of-titles):not(.list-unstyled):not(.post-title) li {
     list-style-type: square;
 }
-ul:not(.list-of-titles):not(.list-unstyled) li::marker {
+ul:not(.list-of-titles):not(.list-unstyled):not(.post-title) li::marker {
     font-size: 0.8em;
 }
