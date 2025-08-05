@@ -109,4 +109,4 @@ title: "📢 stay tuned"
 ---
 
 ## 通过 RSS 订阅
-在 feedly、inoreader 等 rss 阅读器中直接搜索本站域名即可，或者手动添加<a href="https://lmnlnlmns.org/posts/index.xml" target="_blank">订阅源</a>。
+在 feedly、inoreader 等 rss 阅读器中直接搜索本站域名，或者手动添加<a href="https://lmnlnlmns.org/posts/index.xml" target="_blank">订阅源</a>。
