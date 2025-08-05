@@ -800,7 +800,7 @@ article table th {
 /* 中文衬线字体定义 */
 @font-face {
     font-family: 'STDongGuan';
-    src: url('/fromseagullto-blog/fonts/STDongGuan-Light.ttf') format('truetype');
+    src: url('/fonts/STDongGuan-Light.ttf') format('truetype');
     font-weight: 300;
     font-display: swap;
 }
@@ -812,7 +812,7 @@ h1, h2, h3, h4, h5, h6 {
 /* 中文无衬线字体定义 */
 @font-face {
     font-family: 'ChocolateClassicalSans';
-    src: url('/fromseagullto-blog/fonts/ChocolateClassicalSans-Regular.ttf') format('truetype');
+    src: url('/fonts/ChocolateClassicalSans-Regular.ttf') format('truetype');
     font-weight: 400;
     font-display: swap;
 }
