@@ -17,6 +17,10 @@ title: "why seagull?"
 - 基于 <a href="https://gohugo.io/" target="_blank">hugo</a> 框架搭建，使用 <a href="https://github.com/capnfabs/paperesque" target="_blank">paperesque</a> 主题，无魔改。 `# 心有余而力不足`
 - 衬线字体是 <a href="https://fonts.adobe.com/fonts/lora" target="_blank">lora</a> 和<a href="https://www.library.sh.cn/special/dongguanti/" target="_blank">上图东观体</a>，无衬线字体是<a href="https://github.com/MoonlitOwen/ChocolateSans" target="_blank">朱古力黑体</a>。 `# FYI`
 
+## 朋友们
+
+竹子[〈Blah Blah Booooom〉](zhuzi.dev/)丨芋阿圆[〈Plaskier's Blog〉](blog.plaskier.icu)  
+
 <aside class="article-aside look-sheet-border" style="padding: 1em 1em;">
 	<h3>© all rights reserved</h3>
 	<ul>
