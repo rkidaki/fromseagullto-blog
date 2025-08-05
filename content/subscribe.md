@@ -97,9 +97,9 @@ title: "📢 stay tuned"
     <div class="email-signup-form">
         <form action="https://app.kit.com/forms/8378820/subscriptions" method="post" target="_blank">
             <input type="hidden" name="utf8" value="✓">
-            <label>To：</label>
+            <label>To: </label>
             <input type="email" name="email_address" placeholder="you@example.com" required>
-            <button type="submit">订阅</button>
+            <button type="submit">Subscribe</button>
         </form>
     </div>
 </div>
