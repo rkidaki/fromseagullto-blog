@@ -19,10 +19,10 @@ title: "why seagull?"
 
 ## 朋友们
 
-值得关注的友邻，排名不分先后。  
+这些友邻的博客也值得关注：    
 
-- 竹子〈[Blah Blah Booooom](zhuzi.dev/)〉  
-- 芋阿圆〈[Plaskier's Blog〉](blog.plaskier.icu)〉  
+- 竹子〈<a href="https://zhuzi.dev/" target="_blank">Blah Blah Booooom</a>〉  
+- 芋阿圆〈<a href="https://blog.plaskier.icu" target="_blank">Plaskier's Blog</a>〉  
 
 <aside class="article-aside look-sheet-border" style="padding: 1em 1em;">
 	<h3>© all rights reserved</h3>
