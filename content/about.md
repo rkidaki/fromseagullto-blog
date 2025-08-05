@@ -8,7 +8,7 @@ title: "why seagull?"
 
 嗨，叫我边边就好。是骄傲的女权主义者和泛性恋。也是用餐刀和单手骑车只习惯左手的右撇子。胆量大小与天色明暗成正比。无论在哪都常被人问路的神奇体质。会讲超地道的方言。不敢划火柴。高中毕业多年后仍受数学噩梦困扰。喜欢猫，喜欢狗，最喜欢大象。  
 
-如需联系，你可以在 <a rel="me" href="https://m.cmx.im/@rkidaki" target="_blank">mastodon</a> 找到我，或者给我发邮件。
+如需联系，你可以在 <a rel="me" href="https://m.cmx.im/@rkidaki" target="_blank">mastodon</a> 找到我，或者给我<a href="mailto:seagull2u@lmnlnlmns.org">发邮件</a>。
 
 ## 关于本站
 
