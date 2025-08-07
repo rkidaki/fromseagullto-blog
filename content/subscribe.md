@@ -15,12 +15,6 @@ title: "📢 stay tuned"
     justify-content: center;
 }
 
-.email-signup-form form {
-    display: flex;
-    align-items: baseline;
-    gap: 0.25em;
-}
-
 .email-signup-form input[type="email"] {
     background-color: var(--color-sheet-bg);
     border: solid 1px var(--color-border-generic);
