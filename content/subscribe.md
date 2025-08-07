@@ -45,6 +45,7 @@ title: "📢 stay tuned"
 
 @media(max-width: 680px) {
     .email-signup-form form {
+        display: flex;
         flex-direction: column;
     }
 
