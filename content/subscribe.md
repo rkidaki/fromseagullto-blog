@@ -2,6 +2,13 @@
 title: "📢 stay tuned"
 ---
 
+.dashed-border {
+    border: dashed 1px var(--color-btn-border);
+    border-radius: 4px;
+    padding: 1em;
+    margin-bottom: 1em;
+}
+
 <style type="text/css">
 .email-signup-form {
     display: flex;
@@ -45,6 +52,11 @@ title: "📢 stay tuned"
 @media(max-width: 680px) {
     .email-signup-form form {
         flex-direction: column;
+    }
+
+    .email-signup-form input[type="email"],
+    .email-signup-form button[type="submit"] {
+        width: 200px;
     }
     
     .email-signup-form .small-stack {
