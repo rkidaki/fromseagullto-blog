@@ -3,15 +3,6 @@ title: "📢 stay tuned"
 ---
 
 <style type="text/css">
-/* 主容器样式 */
-.dashed-border {
-    border: dashed 1px var(--color-btn-border);
-    border-radius: 4px;
-    padding: 1em;
-    margin-bottom: 1em;
-}
-
-/* 表单布局 */
 .email-signup-form {
     display: flex;
     justify-content: center;
@@ -23,27 +14,12 @@ title: "📢 stay tuned"
     gap: 0.5em;
 }
 
-.email-signup-form label,
-.email-signup-form input[type="email"],
-.email-signup-form button[type="submit"] {
-    font-family: inherit;
-    font-size: inherit;
-    line-height: 1.4;
-    margin: 0;
-}
-
-.email-signup-form label {
-    color: var(--color-text);
-    white-space: nowrap;
-}
-
 .email-signup-form input[type="email"] {
     background-color: var(--color-sheet-bg);
     border: solid 1px var(--color-border-generic);
     border-radius: 2px;
     color: var(--color-text);
     padding: .25em .5em;
-    box-sizing: border-box;
 }
 
 .email-signup-form input[type="email"]::placeholder {
@@ -58,7 +34,6 @@ title: "📢 stay tuned"
     border-radius: 4px;
     padding: .25em .5em;
     cursor: pointer;
-    box-sizing: border-box;
 }
 
 .email-signup-form button[type="submit"]:hover {
@@ -69,22 +44,12 @@ title: "📢 stay tuned"
 
 @media(max-width: 680px) {
     .email-signup-form form {
-        display: flex;
-        flex-direction: column; 
-        width: 100%;
-        max-width: 300px; 
+        flex-direction: column;
     }
     
-    .email-signup-form label,
-    .email-signup-form input[type="email"],
-    .email-signup-form button[type="submit"] {
+    .email-signup-form .small-stack {
         margin-top: .25em;
         margin-bottom: .25em;
-        width: 100%;  
-    }
-    
-    .email-signup-form button[type="submit"] {
-        margin-bottom: .4em;  
     }
 }
 </style>
@@ -97,9 +62,9 @@ title: "📢 stay tuned"
     <div class="email-signup-form">
         <form action="https://app.kit.com/forms/8378820/subscriptions" method="post" target="_blank">
             <input type="hidden" name="utf8" value="✓">
-            <label>致：</label>
-            <input type="email" name="email_address" placeholder="you@example.com" required>
-            <button type="submit">订阅</button>
+            <label class="small-stack">致：</label>
+            <input type="email" name="email_address" placeholder="you@example.com" required class="small-stack">
+            <button type="submit" class="small-stack">订阅</button>
         </form>
     </div>
 </div>
