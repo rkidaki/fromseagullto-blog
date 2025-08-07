@@ -106,7 +106,5 @@ title: "📢 stay tuned"
 
 💡 确认邮件可能不会即时送达，也可能出现在垃圾箱里，请多多留意。
 
----
-
 ## 通过 RSS 订阅
 在 feedly、inoreader 等 rss 阅读器中直接搜索本站域名，或者手动添加<a href="https://lmnlnlmns.org/posts/index.xml" target="_blank">订阅源</a>。
