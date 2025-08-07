@@ -26,6 +26,7 @@ title: "📢 stay tuned"
     border-radius: 2px;
     color: var(--color-text);
     padding: .25em .5em;
+    box-sizing: border-box;
 }
 
 .email-signup-form input[type="email"]::placeholder {
@@ -40,6 +41,7 @@ title: "📢 stay tuned"
     border-radius: 4px;
     padding: .25em .5em;
     cursor: pointer;
+    box-sizing: border-box;
 }
 
 .email-signup-form button[type="submit"]:hover {
