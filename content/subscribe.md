@@ -3,7 +3,6 @@ title: "📢 stay tuned"
 ---
 
 <style type="text/css">
-
 .dashed-border {
     border: dashed 1px var(--color-btn-border);
     border-radius: 4px;
@@ -19,7 +18,6 @@ title: "📢 stay tuned"
 .email-signup-form form {
     display: flex;
     align-items: baseline;
-    gap: 0.5em;
 }
 
 .email-signup-form input[type="email"] {
@@ -60,9 +58,7 @@ title: "📢 stay tuned"
         width: 200px;
     }
     
-    .email-signup-form label,
-    .email-signup-form input[type="email"],
-    .email-signup-form button[type="submit"] {
+    .email-signup-form .small-stack {
         margin-top: .25em;
         margin-bottom: .25em;
     }
@@ -77,9 +73,9 @@ title: "📢 stay tuned"
     <div class="email-signup-form">
         <form action="https://app.kit.com/forms/8378820/subscriptions" method="post" target="_blank">
             <input type="hidden" name="utf8" value="✓">
-            <label>致：</label>
-            <input type="email" name="email_address" placeholder="you@example.com" required>
-            <button type="submit">订阅</button>
+            <label class="small-stack">致：</label>
+            <input type="email" name="email_address" placeholder="you@example.com" required class="small-stack">
+            <button type="submit" class="small-stack">订阅</button>
         </form>
     </div>
 </div>
