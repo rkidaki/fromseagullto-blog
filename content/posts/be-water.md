@@ -1,5 +1,5 @@
 ---
-title: "水的踪迹 be water"
+title: "水的踪迹 Be Water"
 date: 2025-01-20
 tags: ["习作"]
 ---
