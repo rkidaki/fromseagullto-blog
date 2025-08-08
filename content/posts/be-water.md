@@ -1,8 +1,8 @@
 ---
 title: "水的踪迹"
 date: 2025-01-20
-tag: ["习作"]
-description: "Be water, my friend."
+tags: ["习作"]
+summary: "Be water, my friend."
 ---
 
 总是从一个地方到另一个地方吗？  
