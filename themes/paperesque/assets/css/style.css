@@ -828,3 +828,11 @@ ul:not(.list-of-titles):not(.list-unstyled):not(:has(.post-title)) li {
 ul:not(.list-of-titles):not(.list-unstyled):not(:has(.post-title)) li::marker {
     font-size: 0.8em;
 }
+
+/* 虚线框样式 */
+.dashed-border {
+    border: dashed 1px var(--color-btn-border);
+    border-radius: 4px;
+    padding: 1em;
+    margin-bottom: 1em;
+}
