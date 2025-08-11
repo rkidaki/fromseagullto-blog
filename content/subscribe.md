@@ -2,14 +2,7 @@
 title: "📢 stay tuned"
 ---
 
-<style type="text/css">
-.dashed-border {
-    border: dashed 1px var(--color-btn-border);
-    border-radius: 4px;
-    padding: 1em;
-    margin-bottom: 1em;
-}
-    
+<style type="text/css">    
 .email-signup-form {
     display: flex;
     justify-content: center;
