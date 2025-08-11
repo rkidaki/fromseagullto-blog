@@ -1,7 +1,7 @@
 ---
 title: "样式测试"
 date: 2025-08-10
-draft: true
+draft: false
 ---
 
 这是图片
