@@ -7,7 +7,7 @@ draft: false
 这是图片。
 {{< figure src="/images/gaga-tickets.jpeg" caption="MVP 结算画面" >}}
 
-## 娱乐输入小记
+## 娱乐输入
 
 这是一段导语。
 
