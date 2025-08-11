@@ -1,11 +1,11 @@
 ---
 title: "样式测试"
 date: 2025-08-10
-draft: true
+draft: false
 ---
 
 这是图片。
-{{< figure src="/images/gaga-tickets.jpeg" caption="MVP 结算画面" >}}
+{{< figure src="/images/gaga-tickets.jpeg" caption="MVP 结算画面" class="smaller" >}}
 
 ## 娱乐输入小记
 
@@ -13,12 +13,6 @@ draft: true
 
 <div class="dashed-border">
   <h3>母胎单身恋爱大作战 ⭐️⭐</h3>
-  <code># 真人秀</code> <code># 韩国</code><br>
-  这是短评。
-</div>
-
-<div class="dashed-border">
-  <b>母胎单身恋爱大作战</b> ⭐️⭐
-  <code># 真人秀</code> <code># 韩国</code><br>
-  这是短评。
+  <code># 真人秀</code> <code># 韩国</code>
+  <p>这是短评。</p>
 </div>
