@@ -801,7 +801,7 @@ article table th {
 @font-face {
     font-family: 'HuiwenZhengkai';
     src: url('/fonts/HuiwenZhengkai-Regular.ttf') format('truetype');
-    font-weight: 400;
+    font-weight: 300;
     font-display: swap;
 }
 
