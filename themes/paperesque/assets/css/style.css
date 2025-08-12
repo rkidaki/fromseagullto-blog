@@ -799,14 +799,14 @@ article table th {
 
 /* 中文衬线字体定义 */
 @font-face {
-    font-family: 'STDongGuan';
-    src: url('/fonts/STDongGuan-Light.ttf') format('truetype');
-    font-weight: 300;
+    font-family: 'HuiwenZhengkai';
+    src: url('/fonts/HuiwenZhengkai-Regular.ttf') format('truetype');
+    font-weight: 400;
     font-display: swap;
 }
 
 h1, h2, h3, h4, h5, h6 {
-    font-family: 'Lora', "STDongGuan", serif;
+    font-family: 'Lora', "HuiwenZhengkai", serif;
 }
 
 /* 中文无衬线字体定义 */
