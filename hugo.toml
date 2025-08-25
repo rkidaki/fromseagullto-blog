@@ -2,6 +2,7 @@ baseURL = '/'
 languageCode = 'en-us'
 title = 'from seagull to...'
 theme = 'paperesque'
+buildDrafts = true
 
 [params]
 sidebar = true  
