@@ -15,7 +15,7 @@ title: "why seagull?"
 ## 关于本站
 
 - 算起来是我用的第三个博客。 `# 差生文具多`
-- 域名的意思是 liminal n(and) luminous。 `# 其实不难记啦`
+- 域名的意思是 liminal 'n' luminous。 `# 其实不难记啦`
 - 没有迁移旧文，因为前几年除了给 VPS 服务商白白交钱外什么都没写。 `# 冤大头本头`
 - 基于 <a href="https://gohugo.io/" target="_blank">hugo</a> 框架搭建，使用 <a href="https://github.com/capnfabs/paperesque" target="_blank">paperesque</a> 主题，无魔改。 `# 心有余而力不足`
 - 衬线字体是 <a href="https://fonts.adobe.com/fonts/lora" target="_blank">lora</a> 和<a href="https://zhuanlan.zhihu.com/p/12669052378" target="_blank">汇文仿宋</a>，无衬线字体是<a href="https://github.com/MoonlitOwen/ChocolateSans" target="_blank">朱古力黑体</a>。 `# FYI`
