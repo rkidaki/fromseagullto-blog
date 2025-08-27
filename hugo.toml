@@ -23,6 +23,3 @@ url = "subscribe/"
   [markup.goldmark]
     [markup.goldmark.renderer]
       unsafe = true
-
-[outputs]
-page = ["HTML"]
