@@ -25,4 +25,4 @@ url = "subscribe/"
       unsafe = true
 
 [outputs]
-page = ["HTML", "droplist"]
+page = ["HTML"]
