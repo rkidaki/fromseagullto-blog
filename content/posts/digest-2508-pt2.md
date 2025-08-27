@@ -7,25 +7,25 @@ draft: true
 
 咕咕，由于有事耽搁，八月中的小结等月底一起发。
 
-## 书影音备忘
+## 书影音条目备忘
 
 <div class="dashed-border">
-  <h3>Viet Thanh Nguyen - To Save and to Destroy</h3>
+  <h3>Viet Thanh Nguyen - To Save and to Destroy（在读）</h3>
   <code># 图书</code> <code># 文集</code> <code># 美国</code>
 </div>
 
 <div class="dashed-border">
   <h3>猫猫的奇幻漂流 🌕🌕🌕🌗🌑</h3>
-  <code># 电影</code> <code># 拉脱维亚/比利/法国</code>
+  <code># 电影</code> <code># 拉脱维亚/比利时/法国</code>
 </div>
 
 <div class="dashed-border">
-  <h3>29 岁的圣诞节</h3>
+  <h3>29 岁的圣诞节（在看）</h3>
   <code># 剧集</code> <code># 日本</code>
 </div>
 
 <div class="dashed-border">
-  <h3>The Rehearsal Season 2</h3>
+  <h3>The Rehearsal Season 2（在看）</h3>
   <code># 剧集</code> <code># 美国</code>
 </div>
 
