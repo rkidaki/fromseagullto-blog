@@ -24,8 +24,9 @@ title: "why seagull?"
 
 这些友邻的博客也值得关注：    
 
-- 竹子〈<a href="https://zhuzi.dev/" target="_blank">Blah Blah Booooom</a>〉  
-- 芋阿圆〈<a href="https://blog.plaskier.icu" target="_blank">Plaskier's Blog</a>〉  
+- 竹子〈<a href="https://zhuzi.dev" target="_blank">Blah Blah Booooom</a>〉  
+- 芋阿圆〈<a href="https://blog.plaskier.icu" target="_blank">Plaskier's Blog</a>〉
+- 容〈<a href="https://mokuyo.neocities.org" target="_blank">光明岛</a>〉
 
 <aside class="article-aside look-sheet-border" style="padding: 1em 1em;">
 	<h3>© all rights reserved</h3>
